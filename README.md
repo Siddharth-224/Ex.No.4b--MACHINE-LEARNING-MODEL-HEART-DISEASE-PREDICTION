@@ -134,4 +134,23 @@ plt.xlabel("Predicted") plt.ylabel("Actual") plt.title("Confusion Matrix - Rando
 plt.show()
 
 CONCLUSION
-Thus, machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
+Thus,machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
+
+About
+No description, website, or topics provided.
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+2 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+No contributors
